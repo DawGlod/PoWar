@@ -1,4 +1,4 @@
-## **PokWar 🃏**
+# **PokWar 🃏**
 PokWar is a web application built with [Django](https://docs.djangoproject.com/en/stable/) that allows users to play two card games: War and Poker.
 
 ### **War**
