@@ -22,3 +22,14 @@ PokWar is a web application built with [Django](https://docs.djangoproject.com/e
 7. Click a mode to start playing.
 ### **Stopping the Server**
 8. Press `CTRL+C` in the terminal.
+
+## **TODO**
+- Finish Poker Functionality
+- User Profile
+- Multiplayer Mode
+- Game Lobby
+- Authentication & Authorization
+- UI/UX Improvements
+- Testing & Debugging
+- Leaderboard & Rankings
+- Chat System
